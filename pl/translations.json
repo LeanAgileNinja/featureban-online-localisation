@@ -40,9 +40,9 @@
     "__participate_as_player": "Uczestnicz jako gracz",
     "__participate_as_spectator": "Uczestnicz jako obserwator",
     "__spectator_registration_info": "(Ogląda i kontroluje przebieg gry)",
-    "__about_game": "To prosta, rozrywkowa i dobra do dostosowania gra symulująca Kanban. Od roku 2014 jest stosowana na całym świecie przez trenerów i coachu w obrszarach Lean, Agile i Kanban.",
+    "__about_game": "To prosta, rozrywkowa i elastyczna gra symulująca pracę w systemie Kanban. Od roku 2014 jest stosowana na całym świecie przez trenerów i coachów w obrszarach Lean, Agile i Kanban.",
     "__game_recommendations": "Rekomendacje dla gry",
-    "__required_players_count": "Każda gra potrzebuje od 3 do 5 graczy.",
+    "__required_players_count": "Do gry potrzeba od 3 do 5 graczy.",
     "__communication_between_players_desc": "By spróbować dołącz jako gracz lub obserwator i udostępnij innym link. Będziesz potrzebować w czasie gry narzędzia do komunikacji (audio i video), by razem grać online (tego nie oferujemy, więc musisz użyć własnego narzędzia).",
     "__game_updates": "Aktualizacje gry",
     "__several_games_update_desc": "Nie musisz już uruchamiać gry Featureban w kilku przeglądarkach, teraz możesz uczestniczyć w kilku grach jednocześnie z jednej przeglądarki.",
@@ -51,7 +51,7 @@
   },
   "FinishScreen": {
     "__game_overview": "Podsumowanie gry",
-    "__iteration_card_states_title": "Cards position by the end of iteration",
+    "__iteration_card_states_title": "Położenie karta na koniec rundy",
     "__all_game_metrics_title": "Metryki",
     "__lead_time_histogram_title": "Histogram czasu realizacji (lead-time)",
     "__debrief_title": "Podsumowanie",
@@ -62,7 +62,7 @@
   },
   "NotFoundScreen": {
     "__not_found_game_description": "Nie znaleziono gry",
-    "__to_new_game": "Do tworzenia nowej gry"
+    "__to_new_game": "Tworzenie nowej gry"
   },
   "MobileNotSupportedScreen": {
     "__mobile_is_not_supported": "Niestety gra w Featureban na małych ekranach jest wyjątkowo niewygodna \uD83D\uDE1E",
@@ -76,13 +76,13 @@
     "__column_2_title": "Gotowe",
     "__uploaded": "Wgrane",
     "__drop_file_here": "Przeciągnij plik tutaj",
-    "__drop_file_attachment": "Przeciągnij plik tutaj (kliknięcie również działa",
+    "__drop_file_attachment": "Przeciągnij plik tutaj (kliknięcie również działa)",
     "__use_table_first_row": "Użyj pierwszego wiersza tabeli",
     "__select_the_column_for_card_names": "Wybierz kolumnę z nazwami kart",
     "__upload_instruction": "Możesz wgrać własne zadania do gry. By to zrobić przygotuj plik jak ten przykładowy:",
     "__example_file": "przykład",
     "__set_column_names_label": "Ustaw nazwy kolumn",
-    "__backlog_column_label": "Kolumna Backlog",
+    "__backlog_column_label": "Kolumna Kolejki",
     "__first_progress_column_label": "Pierwsza aktywna kolumna",
     "__second_progress_column_label": "Druga aktywna kolumna",
     "__done_column_label": "Kolumna Gotowe",
@@ -120,15 +120,15 @@
     "__rules_for_each_player": "Zasady będą wyświetlane każdemu z graczy, nie musisz ich im tłumaczyć.",
     "__joined_users": "Podłączonych użytkowników"
   },
-  "Sponsorship": {
+  "Wsparcie": {
     "__title": "Wesprzyj grę",
     "__description_1": "Cieszymy się z rozwoju gry Featureban online i nie zamierzamy pobierać opłat za jej używanie.",
-    "__description_2": "Jeśli chcesz wesprzeć projekt i dać wyraz temu, że robimy właściwą pracę prosimy wesprzyj nas dowolną kwotą.",
+    "__description_2": "Jeśli chcesz wesprzeć nasz projekt i dać wyraz temu, że robimy właściwą pracę prosimy wesprzyj nas dowolną kwotą.",
     "__button": "Przekaż wsparcie"
   },
   "KaitenPromo": {
-    "__title": "Szukasz oprogramowania wspierającego Kanban?",
-    "__description_1": "Kaiten to narzędzie online dla firm i zespołów które stosują Metodę Kanban lub inne podejścia zwinne (Agile) takie jak Scrum, LeSS, itp.",
+    "__title": "Szukasz oprogramowania oozwalającego w pełni pracować w zgodzie z Metodą Kanban?",
+    "__description_1": "Kaiten to narzędzie online dla firm i zespołów, które stosują Metodę Kanban lub inne podejścia zwinne (Agile) takie jak Scrum, LeSS, itp.",
     "__description_2": "",
     "__button": "Wypróbuj Kaiten"
   },
@@ -211,7 +211,7 @@
     "__time_till_auto_start": "Czas do automatycznego startu",
     "__user_is_ready": "{{userName}} jest gotowy/a",
     "__user_is_not_ready": "{{userName}} nie jest gotowy/a",
-    "__confirm_admin_iteration_start_text": "Uwaga, nie wszyscy gracze są gotowi. Czy chcesz zacząć rundę bez zaczekanie na gotowość wszystkich graczy?",
+    "__confirm_admin_iteration_start_text": "Uwaga, nie wszyscy gracze są gotowi. Czy chcesz zacząć rundę bez czekania na gotowość wszystkich graczy?",
     "__dialog_title": "Przygotowanie do rozpoczęcia rundy",
     "__facilitator_info": "Jeśli chcesz wyczyścić tablicę przed drugą rundą możesz to zrobić.",
     "__players_info": "Organizatorzy gry przygotowują tablicę do drugiej rundy.",
@@ -296,9 +296,9 @@
     "LeadTimeTable": {
       "__start_day": "Dzień startu",
       "__end_day": "Dzień końca",
-      "__work_time": "Czas"
+      "__work_time": "Czas pracy"
     },
-    "__loading_chart": "Ładowanie wykresy",
+    "__loading_chart": "Ładowanie wykresu",
     "__show_in_dialog": "Otwórz w oknie",
     "__no_data": "Brak danych do wyświetlenia",
     "__iteration_label": "Runda {{iteration}}",
@@ -307,7 +307,7 @@
     "__first_iteration": "Pierwsza runda",
     "__second_iteration": "Druga runda",
     "__third_iteration": "Trzecia runda",
-    "__cfd_title": "Cumulative flow diagram (Skumulowany diagram przepływu)",
+    "__cfd_title": "Skumulowany diagram przepływu (CFD)",
     "__lead_time_title": "Wykres czasów realizacji"
   },
   "Notifications": {
